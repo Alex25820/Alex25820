@@ -5,20 +5,11 @@ I like to code sometimes, it can be anything from bots to games.
 
 
 ## Socials
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/twitter/ffffff">
-  <img align="left" alt="Alex25820's Twitter" width="25px" src="https://simpleicons.vercel.app/twitter/000000">
-</picture>][twitter]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/twitter/ffffff"><img align="left" alt="Alex25820's Twitter" width="25px" src="https://simpleicons.vercel.app/twitter/000000"></picture>][twitter]
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/itchdotio/ffffff">
-  <img align="left" alt="Alex25820's itch.io" width="25px" src="https://simpleicons.vercel.app/itchdotio/000000">
-</picture>][itch.io]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/itchdotio/ffffff"><img align="left" alt="Alex25820's itch.io" width="25px" src="https://simpleicons.vercel.app/itchdotio/000000"></picture>][itch.io]
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/github/ffffff">
-  <img align="left" alt="Alex25820's GitHub" width="25px" src="https://simpleicons.vercel.app/github/000000">
-</picture>][github]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/github/ffffff"><img align="left" alt="Alex25820's GitHub" width="25px" src="https://simpleicons.vercel.app/github/000000"></picture>][github]
 
 <br>
 <br>
@@ -30,10 +21,8 @@ I like to code sometimes, it can be anything from bots to games.
 [<img align="left" alt="HTML" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/unity/ffffff">
-  <img align="left" alt="Unity" width="25px" src="https://simpleicons.vercel.app/unity/000000">
-</picture>][unity]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/unity/ffffff"><img align="left" alt="Unity" width="25px" src="https://simpleicons.vercel.app/unity/000000"></picture>][unity]
+
 [<img align="left" alt="Godot" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />][godot]
 [<img align="left" alt="Raspberry Pi" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][raspberrypi]
 
