@@ -4,10 +4,10 @@ I like to code sometimes, it can be anything from bots to games.
 <br> 
 
 ## 🔗 Links
-[<img height="25px" alt="Alex's LinkedIn" src="https://cdn.simpleicons.org/linkedin/#0A66C2"/>](https://linkedin.com/in/alexander-sj%C3%B6gren)
+[<img height="25px" alt="Alex's LinkedIn" src="https://cdn.simpleicons.org/linkedin"/>](https://linkedin.com/in/alexander-sj%C3%B6gren)
 &nbsp;
 &nbsp;
-[<img height="25px" alt="Alex's itch.io" src="https://cdn.simpleicons.org/itchdotio/#FA5C5C"/>](https://alex25820.itch.io)
+[<img height="25px" alt="Alex's itch.io" src="https://cdn.simpleicons.org/itchdotio"/>](https://alex25820.itch.io)
 &nbsp;
 &nbsp;
 [<img height="25px" alt="Alex's X (Twitter)" src="https://cdn.simpleicons.org/x/black/white"/>](https://x.com/Alex25820)
