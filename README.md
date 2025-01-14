@@ -10,7 +10,7 @@ I like to code sometimes, it can be anything from bots to games.
 [<img height="25px" alt="Alex's itch.io" src="https://cdn.simpleicons.org/itchdotio"/>](https://alex25820.itch.io)
 &nbsp;
 &nbsp;
-[<img height="25px" alt="Alex's X (Twitter)" src="https://cdn.simpleicons.org/x/black/white"/>](https://x.com/Alex25820)
+[<img height="25px" alt="Alex's Bluesky" src="https://cdn.simpleicons.org/bluesky"/>](https://bsky.app/profile/alex25820.bsky.social)
 &nbsp;
 &nbsp;
 [<img height="25px" alt="Alex's GitHub" src="https://cdn.simpleicons.org/github/black/white"/>](https://github.com/Alex25820)
