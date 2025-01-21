@@ -4,6 +4,9 @@ I like to code sometimes, it can be anything from bots to games.
 <br> 
 
 ## 🔗 Links
+[<img height="25px" alt="Alex's Webiste" src="https://github.com/Alex25820/Alex25820.github.io/blob/main/resources/favicon.png"/>](https://alex25820.github.io/)
+&nbsp;
+&nbsp;
 [<img height="25px" alt="Alex's LinkedIn" src="https://cdn.simpleicons.org/linkedin"/>](https://linkedin.com/in/alexander-sj%C3%B6gren)
 &nbsp;
 &nbsp;
