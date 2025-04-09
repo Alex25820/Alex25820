@@ -7,7 +7,7 @@ I like to code sometimes, it can be anything from bots to games.
 [<img height="25px" alt="Alex's Webiste" src="https://github.com/Alex25820/Alex25820.github.io/blob/main/resources/favicon.png"/>](https://alexandersjogren.se)
 &nbsp;
 &nbsp;
-[<img height="25px" alt="Alex's LinkedIn" src="https://cdn.simpleicons.org/linkedin"/>](https://linkedin.com/in/alexander-sj%C3%B6gren)
+[<img height="25px" alt="Alex's LinkedIn" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230a66c2"/>](https://linkedin.com/in/alexander-sj%C3%B6gren)
 &nbsp;
 &nbsp;
 [<img height="25px" alt="Alex's itch.io" src="https://cdn.simpleicons.org/itchdotio"/>](https://alex25820.itch.io)
