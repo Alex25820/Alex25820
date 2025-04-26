@@ -27,7 +27,7 @@ I like to code sometimes, it can be anything from bots to games.
 [<img height="25px" alt="C#" src="https://svgrepo.com/show/353622/c-sharp.svg"/>](https://docs.microsoft.com/en-us/dotnet/csharp)
 &nbsp;
 &nbsp;
-[<img height="25px" alt="Unity" src="https://cdn.simpleicons.org/unity/black/white"/>](https://unity.com)
+[<img height="25px" alt="Unity" src="https://cdn.simpleicons.org/unity/000000/FFFFFF"/>](https://unity.com)
 &nbsp;
 &nbsp;
 [<img height="25px" alt="Godot" src="https://godotengine.org/assets/press/icon_color.svg"/>](https://godotengine.org)
